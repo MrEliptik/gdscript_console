@@ -4,7 +4,7 @@
 
 GDScript Console is an editor addon giving the ability to run GDScript and call functions from the currently edited scene.
 
-Made for the [Godot Addon Jam](https://itch.io/jam/godot-addons-jam-1). [Itch page]()
+Made for the [Godot Addon Jam](https://itch.io/jam/godot-addons-jam-1). [Itch page](https://mreliptik.itch.io/gdscript-console)
 
 ## Features
 
