@@ -14,7 +14,6 @@ func _ready() -> void:
 
 func _on_Run_pressed() -> void:
 	root_node = get_tree().get_edited_scene_root()
-	print(root_node)
 	var txt = editor.text
 	var lines = txt.split("\n")
 	for line in lines:
