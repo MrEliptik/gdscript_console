@@ -10,13 +10,25 @@ Made for the [Godot Addon Jam](https://itch.io/jam/godot-addons-jam-1). [Itch pa
 
 In editor GDScript console. Type any GDScript expression and hit `RUN` to get the result in the output console.
 <p align="center">
-  <img src="screenshots/console.png" width="200">
+  <img src="screenshots/expression.gif" width="300">
 </p>
 
 Execute code from the currently edited scene. Simply call the function you want and hit `RUN`
 <p align="center">
-  <img src="screenshots/function_call.png" width="800">
+  <img src="screenshots/function_call.gif" width="800">
 </p>
+
+`Tool warning!` Tells you if the script is not a `tool`
+
+<p align="center">
+  <img src="screenshots/tool_warning.gif" width="800">
+</p>
+
+Zoom in and out, just like in the editor!
+<p align="center">
+  <img src="screenshots/zoom.gif" width="300">
+</p>
+
 
 ## How to use
 
