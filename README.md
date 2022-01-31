@@ -8,7 +8,7 @@ Made for the [Godot Addon Jam](https://itch.io/jam/godot-addons-jam-1). [Itch pa
 
 ## Features
 
-In editor GDScript console. Type any GDScript expression and hit `RUN` to get the result in the output console.
+In editor GDScript console. Type any GDScript expression and hit `Run` to get the result in the output console.
 <p align="center">
   <img src="screenshots/expression.gif" width="300">
 </p>
