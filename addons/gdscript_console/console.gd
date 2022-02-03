@@ -75,7 +75,7 @@ func _on_Editor_gui_input(event: InputEvent) -> void:
 			ctrl_pressed = event.is_pressed()
 	
 	elif event is InputEventMouseButton:
-		if event.is_pressed():
+		if event.is_pressed() and ctrl_pressed:
 			if event.button_index == BUTTON_WHEEL_UP:
 				code_font.size += 1
 			elif event.button_index == BUTTON_WHEEL_DOWN:
